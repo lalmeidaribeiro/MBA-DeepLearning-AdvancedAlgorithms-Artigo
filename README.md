@@ -17,16 +17,16 @@
 <p>Realizamos uma comparação entre as técnicas utilizadas em um artigo de referência e os algoritmos e métodos empregados no desenvolvimento e comparação dos modelos em nosso estudo.</p>
 
 ## Estrutura do repositório
--`apresentacao`: Contém a apresentação utilizada para a aprovação do artigo, explicando o problema e as soluções propostas.
+- `apresentacao`: Contém a apresentação utilizada para a aprovação do artigo, explicando o problema e as soluções propostas.
 - `artigo_referencia`: Pasta com o artigo de referência que utilizamos para comparar as abordagens adotadas em nosso estudo.
 - `bases\`: Contém os datasets usados ao longo do desenvolvimento do projeto.
 - `modelos\`: Pasta com todos os notebooks desenvolvidos para a comparação, apresentando diversos algoritmos e técnicas de previsão de irradiância solar.
-- `MELHORIA NA PRE...`: Arquivo .pdf com as ccom as conclusões do artigo desenvolvido.
+- `MELHORIA NA PRE...`: Arquivo .pdf com as conclusões do artigo desenvolvido.
 
 ## Tecnologias utilizadas
 
 - `Excel`:  Para organização e análise de dados iniciais.
-- `Google Colab`: Ambiente de desenvolvimento usado para implementar e testar os modelos de Deep Learning.
+- `Google Colab`: Ambiente de desenvolvimento usado para implementar e testar os modelos.
 
 ## Bibliotecas utilziadas
 
@@ -34,7 +34,7 @@
 - `numpy`: Para cálculos numéricos e operações em arrays.
 - `sklearn`: Para pré-processamento de dados, divisão de conjuntos de treino/teste e avaliação de modelos.
 - `tensorflow.keras`: Para construção e treinamento de modelos de Deep Learning.
-- `matplotlib`: Para visualização de gráficos e resultados.
+- `matplotlib`: Para visualização de gráficos e resultados.de
 - `pyswarm`: Para otimização de hiperparâmetros via Algoritmos Evolutivos.
 - `PyWavelets`: Para transformadas wavelet aplicadas a sinais de irradiância.
 - `deap`: Para implementação de Algoritmos Genéticos para otimização de modelos.
